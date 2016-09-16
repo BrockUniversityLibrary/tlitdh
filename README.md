@@ -1,7 +1,7 @@
 
 #The Library is Too Dang Hot
 
-![Complete Build](pics/built.jpg =250x)
+![Complete Build](./pics/built.jpg =250x)
 
 ## Description 
 
